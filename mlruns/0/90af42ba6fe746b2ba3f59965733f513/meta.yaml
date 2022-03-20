@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rock/Git_Repo/MLOps/mlruns/0/90af42ba6fe746b2ba3f59965733f513/artifacts
+end_time: 1647762499448
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 90af42ba6fe746b2ba3f59965733f513
+run_uuid: 90af42ba6fe746b2ba3f59965733f513
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1647762450606
+status: 4
+tags: []
+user_id: rock

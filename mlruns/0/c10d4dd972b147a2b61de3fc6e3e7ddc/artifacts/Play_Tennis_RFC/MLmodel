@@ -1,0 +1,14 @@
+artifact_path: Play_Tennis_RFC
+flavors:
+  python_function:
+    env: conda.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    python_version: 3.8.5
+  sklearn:
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.0.2
+model_uuid: 46d70c5a22dc4b92bb3b965299e356c8
+run_id: c10d4dd972b147a2b61de3fc6e3e7ddc
+utc_time_created: '2022-03-20 07:49:55.329589'
